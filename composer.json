@@ -1,0 +1,17 @@
+{
+    "name": "adl/logger",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Manujagayan",
+            "email": "manuja.gayan@axiatadigitallabs.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Adl\\Logger\\": "src/"
+        }
+    },
+    "require": {}
+}

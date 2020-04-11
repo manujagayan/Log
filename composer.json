@@ -1,6 +1,6 @@
 {
     "name": "adlmg/logger",
-    "type": "project",
+    "type": "package",
     "authors": [
         {
             "name": "Manujagayan",
